@@ -15,9 +15,8 @@
  ✨ React / Vite 좋아하고  
  🎀 깔끔 + 귀여운 UI 스타일 선호해요~  
 
-<p align="center">
-  <img src="https://i.imgur.com/BH8hpIb.png" width="200" />
-</p>
+<!-- 🎀 쿠로미 이미지 -->
+<img src="https://github.com/hana880922/hana880922/blob/main/kuromi3.jpeg" width="200">
 
 ---
 
